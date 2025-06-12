@@ -76,7 +76,7 @@ This project offers a comprehensive example of:
 
 Perfect as an educational tool, the SkincareAI demonstrates both the potential and the practicality of machine learning in a field like dermatology.
 
-**DISCLAIMER:** All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
+[!CAUTION] All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
 
 ## Live Demo
 
