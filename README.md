@@ -2,6 +2,9 @@
 
 Welcome to the SkinCareAI repository! This application is designed to provide high school students with a real-world example of how machine learning can be applied in the medical field. By analyzing facial images along with lifestyle details, the app offers personalized skincare recommendations.
 
+[!WARNING]  
+The content in this repository is provided for educational purposes only. The SkincareAI project and its recommendations are not validated by any medical expert or doctor and should not be taken as professional advice.
+
 ## Overview
 
 SkincareAI uses state-of-the-art models to identify:
@@ -10,9 +13,6 @@ SkincareAI uses state-of-the-art models to identify:
 - **Wrinkle Detection:** Analysis to determine wrinkle levels.
 
 The application is built with [Streamlit](https://streamlit.io/), making it interactive and easy to use.
-
-**WARNING:** The content in this repository is provided for educational purposes only. The SkincareAI project and its recommendations are not validated by any medical expert or doctor and should not be taken as professional advice.
-
 ## How It Works
 
 1. **Image Processing:**  
