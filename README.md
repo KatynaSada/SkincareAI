@@ -2,7 +2,7 @@
 
 Welcome to the SkinCareAI repository! This application is designed to provide high school students with a real-world example of how machine learning can be applied in the medical field. By analyzing facial images along with lifestyle details, the app offers personalized skincare recommendations.
 
-[!WARNING]  
+**Warning**  
 The content in this repository is provided for educational purposes only. The SkincareAI project and its recommendations are not validated by any medical expert or doctor and should not be taken as professional advice.
 
 ## Overview
@@ -76,7 +76,7 @@ This project offers a comprehensive example of:
 
 Perfect as an educational tool, the SkincareAI demonstrates both the potential and the practicality of machine learning in a field like dermatology.
 
-[!CAUTION] All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
+**Warning** All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
 
 ## Live Demo
 
