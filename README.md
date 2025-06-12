@@ -11,6 +11,8 @@ SkincareAI uses state-of-the-art models to identify:
 
 The application is built with [Streamlit](https://streamlit.io/), making it interactive and easy to use.
 
+**WARNING:** The content in this repository is provided for educational purposes only. The SkincareAI project and its recommendations are not validated by any medical expert or doctor and should not be taken as professional advice.
+
 ## How It Works
 
 1. **Image Processing:**  
@@ -73,6 +75,8 @@ This project offers a comprehensive example of:
 - The process of combining technical analysis with lifestyle and user data to provide meaningful recommendations.
 
 Perfect as an educational tool, the SkincareAI demonstrates both the potential and the practicality of machine learning in a field like dermatology.
+
+**DISCLAIMER:** All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
 
 ## Live Demo
 

@@ -284,4 +284,4 @@ if st.button("💡 Generate Recommendations"):
         for i, rec in enumerate(recs, 1):
             st.markdown(f"{i}. {rec}")
     else:
-        st.warning("Please upload a valid image before generating recom
+        st.warning("Please upload a valid image before generating recommendations.")
