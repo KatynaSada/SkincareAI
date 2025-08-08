@@ -79,11 +79,6 @@ Perfect as an educational tool, the SkincareAI demonstrates both the potential a
 > [!CAUTION]
 > All recommendations provided are for informational purposes only and should not be considered genuine medical advice.
 
-## Live Demo
-
-Try the application online and experience the analysis firsthand!  
-[Launch SkincareAI](https://skincareai4students.streamlit.app/)
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
