@@ -82,7 +82,7 @@ Perfect as an educational tool, the SkincareAI demonstrates both the potential a
 ## Live Demo
 
 Try the application online and experience the analysis firsthand!  
-[Launch SkincareAI](https://skincareanalysis-vwymbk3mtyfgzbwzafcev6.streamlit.app/)
+[Launch SkincareAI](https://skincareai4students.streamlit.app/)
 
 ## Contributing
 
